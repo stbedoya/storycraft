@@ -1,4 +1,4 @@
-# storycraft
+# StoryCraft
 stroycraft demo
 
 ## Installation
