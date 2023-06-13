@@ -19,5 +19,5 @@ Examples:
 
 ## Usage
 
-- Run `python diffusion.py` to start the application.
+- Run `python diffusion.py /ouput_directory` to start the application.
 - Follow the on-screen instructions.
