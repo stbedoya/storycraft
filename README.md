@@ -6,11 +6,11 @@
 
 Examples: 
 
-![combined_image](https://github.com/stbedoya/storycraft/assets/17913665/a08061b2-a456-4cad-ba4d-bcd63ab73b4a)
-
-![combined_image](https://github.com/stbedoya/storycraft/assets/17913665/53466f46-62ba-4924-aa18-9bb35a573591)
-
 ![combined_image](https://github.com/stbedoya/storycraft/assets/17913665/ff99609b-a07c-42e0-a1fd-fa72c4d8c27c)
+
+![combined_image](https://github.com/stbedoya/storycraft/assets/17913665/a5f5b22c-316e-44e4-affb-5141bbd71e97)
+
+![combined_image](https://github.com/stbedoya/storycraft/assets/17913665/63db0144-a8e6-4860-8291-babbecfbb752)
 
 ## Installation
 
