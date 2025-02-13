@@ -1,8 +1,11 @@
 # Description pipeline: 
 
-1. The pipeline generates a photorealistic image based on any text input.
-2. The image produced by the diffusion model is automatically segmented. Two types of segmentation are available: hair segmentation or segmentation into the following categories—background, person, cat, dog, and potted plant. The user must choose the type of segmentation.
-3. Finally, the inpainting diffusion model uses the initially generated image, its mask, and a new prompt to replace the segmented portion of the original image with another image based on the given textual prompt.
+- Initial Image Generation: The process begins when the user provides a text prompt. The diffusion model generates a photorealistic image based on this input.
+- Character Replacement: If the user wants to replace the character in the image, they provide a new textual description of the desired replacement.
+- Automatic Segmentation: The model automatically segments the image. Two segmentation options are available:
+    - Hair segmentation: Isolates and modifies only the hair.
+    - Full segmentation: Identifies and segments the background, person, cat, dog, and potted plant. In this case, the background is preserved while the character is modified.
+- Inpainting with Diffusion: Using the same diffusion model, the inpainting process replaces the segmented character with the new one described in the second user prompt, seamlessly integrating it into the preserved background.
 
 Examples: 
 
